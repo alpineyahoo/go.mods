@@ -1,2 +1,2 @@
-# sample
+# samplemod
 sample module
